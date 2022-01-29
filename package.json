@@ -30,6 +30,6 @@
     "vuepress": "^0.14.2"
   },
   "dependencies": {
-    "vuepress-theme-tes": "^0.2.19"
+    "vuepress-theme-tes": "^0.2.20"
   }
 }
